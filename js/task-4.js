@@ -1,3 +1,4 @@
+//github pages ssie i nie chce zaktualizować tego pliku
 const everyUser = [
   {
     name: "Moore Hensley",
